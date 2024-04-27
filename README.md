@@ -13,38 +13,41 @@ My goal in this project is to analyze some information, answer a bunch of questi
 # Collect data from Google.Sheets and convert it to .csv
 Here is a peak on how data looks for most of the TIC-crew:
 
-<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/c24b6715-c519-471a-9e09-168afa5adc07" width=750 height=400>
+<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/c24b6715-c519-471a-9e09-168afa5adc07" width=750 height=350>
 
 I had to download it in .xlxs format, combine all 31 sheets and convert it to .csv format. Here is how it looks:
 
 <img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/bb747f2a-3a26-44cb-a503-66d91a6f947b" width=750 height=500>
 
+# Received metrics
+Number of guests in March depending on the city and sex:
 
-Number of guests in March depending on the city:
+<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/e7cec71c-6e38-4a83-ba0b-c2e3b1187c77" width = 850 height=500>
 
-<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/2bb53b69-4003-422b-ae1a-b746db7f6b3f" width=500 height=400>
-
-Number of guests in March depending on the group
-
-<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/66dfdbf7-0c28-4d7d-a68b-1c9c4427dd28" width=500 height=400>
 
 Attendance chart:
 
-<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/31ca19d8-214a-4c45-a368-9f2dd847415f" width=800 height=550>
+<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/c60208fd-c5ea-4f19-9b5c-5dc0fc4e5f92" width=850 height=550>
 
 
-People of what ages asked about the walking route:
+People of what ages and which cities asked about the printed map:
 
-<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/f390ad87-fd20-4562-9728-05a968c00f1b" width=500 height=400>
+<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/3c42271b-b6b0-4564-96ca-3f3eab38c3d5" width=850 height=500>
 
-From which cities did people ask about the walking route:
 
-<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/d2746b50-b063-40f6-9d06-04dadf043e29" width=500 height=400>
+People of what ages and which cities asked about the walking route:
 
-People of what ages asked about the printed map:
+<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/39a1579c-a9c9-4613-a6bb-3ea3c3c1913a" width=850 height=500>
 
-<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/a6f60c04-a3a9-4ebe-b12c-e06aa98bd8a1" width=500 height=400>
 
-From which cities did people ask about the printed map:
+People of which ages and which cities bought something in TIC:
 
-<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/470889e1-42b6-4108-a8ab-5098f2b28379" width=500 height=400>
+<img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/92fdcc56-0737-453d-88ae-a01374cc9de2" width=850 height=500>
+
+
+# Conclusion
+It was my first time working with Pandas and Matplotlib, and also it was my first time doing some data analysis. 
+
+In process I learned a lot of different things, starting with how to combine sheets in Excel table and convert it to .csv, following with how to correctly clean data, work with Pandas dataframes (filter them, create new, do something with columns, rows and values) and ending with how to visualise data using Matplotlib.
+
+Overall, it was a great expirience for me! Hope you well enjoyed and until next time!
