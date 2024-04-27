@@ -24,7 +24,7 @@ Number of guests in March depending on the city:
 
 <img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/2bb53b69-4003-422b-ae1a-b746db7f6b3f" width=500 height=400>
 
-Number of guests for March depending on the group
+Number of guests in March depending on the group
 
 <img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/66dfdbf7-0c28-4d7d-a68b-1c9c4427dd28" width=500 height=400>
 
