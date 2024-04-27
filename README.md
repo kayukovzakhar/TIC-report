@@ -48,7 +48,3 @@ People of what ages asked about the printed map:
 From which cities did people ask about the printed map:
 
 <img src="https://github.com/kayukovzakhar/TIC-report-march/assets/146358900/470889e1-42b6-4108-a8ab-5098f2b28379" width=500 height=400>
-
-
-
-
