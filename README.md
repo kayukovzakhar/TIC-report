@@ -1,7 +1,7 @@
 # TIC-report
 In this project I analysed TIC attendance in the month of march
 
-TIC (Tourist Information Center) is located in Tver, created by social project "The Rails". Шts purpose is to help locals and visitors better get acquainted with the city and region, learn about interesting places, go on excursions, buy souvenirs. TIC keeps track of attendance using Google Sheets. My task was to analyze the data for March, answer some questions from management.
+TIC (Tourist Information Center) is located in Tver, created by social project "The Rails" ([therails.cc](https://therails.cc/)). Its purpose is to help locals and visitors better get acquainted with the city and region, learn about interesting places and visit them, go on excursions, buy souvenirs. TIC keeps track of attendance using Google Sheets. My task was to analyze the data for March, answer some questions from management.
 This is a unique dataset that was received from TIC.
 My goal in this project is to analyze some information, answer a bunch of question and, of course, improve my skills in data analytics.
 # Technologies
